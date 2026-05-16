@@ -14,7 +14,7 @@ A clean, educational implementation of a decoder-only Transformer (nano-GPT styl
 - Embedding size: 384
 - Layers: 6
 - Heads: 6
-- ~10M parameters
+- ~11M parameters
 
 ## Results
 
