@@ -14,13 +14,10 @@ A clean, educational implementation of a decoder-only Transformer (nano-GPT styl
 - Embedding size: 384
 - Layers: 6
 - Heads: 6
-- ~10M parameters (or whatever yours is)
+- ~10M parameters
 
 ## Results
-(Insert sample generated text here)
 
-Training loss curve:  
-![Loss Plot](assets/loss.png)
 
 ## How to Run
 
